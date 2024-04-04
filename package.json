@@ -1,0 +1,33 @@
+{
+  "name": "namaste",
+  "version": "1.0.0",
+  "description": "react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karunakar318/namastereact.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "karunakar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karunakar318/namastereact/issues"
+  },
+  "homepage": "https://github.com/karunakar318/namastereact#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist":[
+    "last 2 version"
+  ]
+}
