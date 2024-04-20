@@ -56,3 +56,7 @@
     height: 160px;
     
 }
+.filter-btn{
+    margin: 10px;
+    cursor: pointer;
+}
